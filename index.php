@@ -48,7 +48,7 @@
                 include("salvar-usuario.php");
                 break;
                 default:
-                    print "Bem vindo";
+                    print "<h1>Bem vindo</h1>";
         }
     ?>
         </div>
